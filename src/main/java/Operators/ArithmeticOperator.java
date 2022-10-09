@@ -12,6 +12,8 @@ public class ArithmeticOperator {
 
         // %使用
         // 在Java中 % 的本质：a % b = a - a / b * b
+        // a % b 当 a 是小数时，公式 = a - (int) a / b * b;
+        // 注意：有小数运算，得到的结果是近似值
         System.out.println(10 % 3);
         System.out.println(-10 % 3);
         System.out.println(10 % -3);
