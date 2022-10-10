@@ -21,7 +21,7 @@ public class Switch {
          */
         char alphabet = 0; // char的默认值是'\u0000'
         Scanner scanner = new Scanner(System.in);
-        System.out.println("请输入a-g中的任一字符：");
+        System.out.println("请输入 a-g 中的任一字符：");
         alphabet = scanner.next().charAt(0);
         switch (alphabet) {
             case 'a':
