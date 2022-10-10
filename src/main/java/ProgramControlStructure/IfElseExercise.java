@@ -31,5 +31,28 @@ public class IfElseExercise {
         } else {
             System.out.println(year + "年不是闰年。");
         }
+
+        /**
+         * 嵌套分支（建议：嵌套不要超过三层）
+         * 参加歌手比赛，如果初赛成绩大于8.0进入决赛，否则提示淘汰。并且根据性别提示进入男子组或女子组。
+         * 输入成绩和性别，进行判断和输出信息。
+         */
+        double score;
+        char gender;
+        System.out.println("请输入初赛成绩：");
+        score = scanner.nextDouble();
+        if (score > 8.0) {
+            System.out.println("请输入性别：");
+            gender = scanner.next().charAt(0); // 先接受字符串，再接收字符串的第一个字符
+            if (gender == '男') {
+                System.out.println("进入男子组决赛。");
+            } else if (gender == '女') {
+                System.out.println("进入女子组决赛。");
+            } else {
+                System.out.println("性别输入有误！");
+            }
+        } else {
+            System.out.println("淘汰");
+        }
     }
 }
