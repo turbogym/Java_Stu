@@ -54,5 +54,7 @@ public class IfElseExercise {
         } else {
             System.out.println("淘汰");
         }
+
+
     }
 }

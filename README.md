@@ -13,5 +13,8 @@
 ### 运算符Operators
 [点击去往](src/main/java/Operators)
 
-### 程序控制接口
+### 程序控制接口ProgramControlStructure
 [点击去往](src/main/java/ProgramControlStructure)
+
+### 数组、排序和查找ArraysAndSortingAndLookups
+[点击去往](src/main/java/ArraysAndSortingAndLookups)
