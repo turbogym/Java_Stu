@@ -20,6 +20,7 @@ public class MethodExercise02 {
         // 所以String在参数传递的时候可以看作是值传递
         // Str是不可变类型，在克隆后，p1.name与p2.name指向同一个地址，
         // 修改其中一个，只是会使其重新指向另一个地址，不影响另外一个
+        // p和p2地址值不同，p.name和p2.name地址值相同，但是改p.name是新建了一个常量让p.name指向它，p2.name仍然指向“Milan”
     }
 }
 
