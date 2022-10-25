@@ -1,9 +1,5 @@
 package ObjectOrientedProgramming;
 
-import com.sun.istack.internal.NotNull;
-
-import java.util.Scanner;
-
 public class VarParameterExercise {
     /**
      * 有三个方法，分别实现返回姓名和两门课成绩（总分），返回姓名和三门课成绩（总分），返回姓名和五门课成绩（总分）。
@@ -11,13 +7,13 @@ public class VarParameterExercise {
      * 类名HspMethodEx  方法名showScore
      */
     public static void main(String[] args) {
-        HspMethodEx hspMethodEx = new HspMethodEx();
+        MethodEx hspMethodEx = new MethodEx();
         System.out.println(hspMethodEx.showScore("Jack", 80.5, 60.5));
         System.out.println(hspMethodEx.showScore("Terry", 90, 78.5, 89));
     }
 }
 
-class HspMethodEx {
+class MethodEx {
     public String showScore(String name, double... scores) {
         double totalScore = 0;
         for (int i = 0; i < scores.length; i++) {
