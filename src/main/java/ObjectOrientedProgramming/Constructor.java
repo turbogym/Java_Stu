@@ -29,6 +29,9 @@ public class Constructor {
     public static void main(String[] args) {
         // new一个对象时，直接通过构造器指定名字和年龄
         PersonConstructor personConstructor = new PersonConstructor("Jack", 20);
+        System.out.println("personConstructor的信息如下：");
+        System.out.println("personConstructor对象的 name = " + personConstructor.name);
+        System.out.println("personConstructor对象的 age = " + personConstructor.age);
     }
 }
 
