@@ -20,4 +20,4 @@
 [点击去往](src/main/java/ArraysAndSortingAndLookups)
 
 ### 类与对象ObjectOrientedProgramming
-[点击去往](src/main/java/ObjectOrientedProgramming)
+[点击去往](src/main/java/ObjectOrientedProgramming_PrimarySection)

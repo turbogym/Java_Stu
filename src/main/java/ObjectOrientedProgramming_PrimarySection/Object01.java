@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming_PrimarySection;
 
 public class Object01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming_PrimarySection;
 
 public class Labyrinth {
     // 老鼠出迷宫

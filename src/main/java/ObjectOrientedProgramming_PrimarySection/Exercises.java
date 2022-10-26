@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming_PrimarySection;
 
 import java.util.Random;
 import java.util.Scanner;
