@@ -19,5 +19,8 @@
 ### 数组、排序和查找ArraysAndSortingAndLookups
 [点击去往](src/main/java/com/byonecup/ArraysAndSortingAndLookups)
 
-### 类与对象ObjectOrientedProgramming
+### 类与对象（基础）ObjectOrientedProgramming_PrimarySection
 [点击去往](src/main/java/com/byonecup/ObjectOrientedProgramming_PrimarySection)
+
+### 类与对象（中级）OOP_IntermediateSection
+[点击去往](OOP_IntermediateSection)
