@@ -23,4 +23,4 @@
 [点击去往](src/main/java/com/byonecup/ObjectOrientedProgramming_PrimarySection)
 
 ### 类与对象（中级）OOP_IntermediateSection
-[点击去往](OOP_IntermediateSection)
+[点击去往](src/main/java/com/byonecup/OOP_IntermediateSection)
