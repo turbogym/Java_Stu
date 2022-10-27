@@ -1,4 +1,4 @@
-package com.byonecup.OOP_IntermediateSection;
+package com.byonecup.OOP_IntermediateSection.pkg;
 
 public class AccessModifiers {
     /**
@@ -15,8 +15,8 @@ public class AccessModifiers {
      * 4. 私有级别：用private修饰，只有类本身可以访问，不对外公开.
      *
      * 使用的注意事项
-     * 1) 修饰符可以用来修饰类中的属性，成损方法以及类
-     * 2) 只有默认的和public:才能修饰类！并且遵循上述访问权限的特点。
+     * 1) 修饰符可以用来修饰类中的属性，成员方法以及类
+     * 2) 只有默认的和public才能修饰类！并且遵循上述访问权限的特点。
      * 3) 关于在子类中的访问权限，后面分析
      * 4) 成员方法的访问规则和属性完全一样。
      */

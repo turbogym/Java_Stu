@@ -1,4 +1,4 @@
-package com.byonecup.OOP_IntermediateSection;
+package com.byonecup.OOP_IntermediateSection.pkg;
 
 import java.util.Arrays;
 
