@@ -19,13 +19,13 @@ public class VarParameter {
      */
 
     public static void main(String[] args) {
-        HspMethod hspMethod = new HspMethod();
-        System.out.println(hspMethod.sum());
-        System.out.println(hspMethod.sum(1, 2));
+        Method Method = new Method();
+        System.out.println(Method.sum());
+        System.out.println(Method.sum(1, 2));
     }
 }
 
-class HspMethod {
+class Method {
     // 可以计算2个数的和，3个数的和，4，5，...
     public int sum(int... nums) {
         // int... 表示接收的是可变参数，类型是int，即可以接收多个int（0~多）
