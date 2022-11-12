@@ -24,3 +24,6 @@
 
 ### 类与对象（中级）OOP_IntermediateSection
 [点击去往](src/main/java/com/byonecup/OOP_IntermediateSection)
+
+### 类与对象（高级）OOP_AdvancedSection
+[点击去往](src/main/java/com/byonecup/OOP_AdvancedSection)
